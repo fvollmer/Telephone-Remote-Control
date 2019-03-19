@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MCU_STC)(type Legacy)(uri ${KIPRJMOD}/MCU_STC.lib)(options "")(descr ""))
+  (lib (name Interface_Telecom)(type Legacy)(uri ${KIPRJMOD}/Interface_Telecom.lib)(options "")(descr ""))
+)

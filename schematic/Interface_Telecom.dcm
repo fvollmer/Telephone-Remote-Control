@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HT9170D
+D DTMF receiver with 4 bit output
+K DTMF, Receiver
+F http://www.holtek.com/documents/10179/116711/9170v111.pdf
+$ENDCMP
+#
+#End Doc Library
